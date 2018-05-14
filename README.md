@@ -5,10 +5,10 @@
 Chaîne d'instrumentation basse consomation destinée à une application de capture ECG.
 
 # À propos du projet
-Ce projet utilise la récolte d'énergie pour faire un électrocardiographe (ECG). Donc, la chaîne d'instrumentation a besoin d'être à basse consommation. Le schéma du circuit est inspiré de la datasheet de l'"INA321". Il s'agit d'un composant de Texas Instrument.
+Ce projet utilise la récolte d'énergie pour réaliser un électrocardiographe (ECG). Donc, la chaîne d'instrumentation a besoin d'être basse consommation. Le schéma du circuit est inspiré de la datasheet de l'"INA321". Il s'agit d'un composant de Texas Instruments.
 
 # À propos de nous
-Nous sommes trois étudiants de la Faculté Polytechnique de Mons (Université de Mons, UMons). Antoine DUFRANE, Charlotte LUYPAERT et Vincent STRAGIER (moi-même) travaillent sur ce projet. C'est un projet que nous faisons dans le cadre de notre troisième année dans la Faculté Polytechnique, option electricité.
+Nous sommes trois étudiants de la Faculté Polytechnique de Mons (Université de Mons, UMons). Antoine DUFRANE, Charlotte LUYPAERT et Vincent STRAGIER (moi-même) avons travaillé sur ce projet. C'est un projet que nous faisons dans le cadre de notre troisième année dans la Faculté Polytechnique, option electricité.
 
 ---
 ## English version below
@@ -17,7 +17,7 @@ Nous sommes trois étudiants de la Faculté Polytechnique de Mons (Université d
 Low power channel of instrumentation for an ECG application.
 
 # About it
-This project is using powerharvesting to make an electrocardiograph (ECG). So the channel of instrumentation needs to be low power. The circuit schematic is inspire from the "INA321" datasheet. It's a Texas Instrument component.
+This project is using powerharvesting to make an electrocardiograph (ECG). So the channel of instrumentation needs to be low power. The circuit schematic is inspired from the "INA321" datasheet. It's a Texas Instruments component.
 
 # About us
-We are 3 students of the Polytechnic Faculty of Mons (University of Mons in Belgium, UMons). Antoine DUFRANE, Charlotte LUYPAERT and Vincent STRAGIER (myself) are working on this project. It's a project for our third year in the Electrical Engineering Faculty
+We are 3 students of the Polytechnic Faculty of Mons (University of Mons in Belgium, UMons). Antoine DUFRANE, Charlotte LUYPAERT and Vincent STRAGIER (myself) have been working on this project. It's a project for our third year in the Electrical Engineering Faculty
