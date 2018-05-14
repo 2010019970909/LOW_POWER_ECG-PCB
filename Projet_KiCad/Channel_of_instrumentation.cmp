@@ -1,0 +1,347 @@
+Cmp-Mod V01 Created by PcbNew   date = 24-03-18 19:40:38
+
+BeginCmp
+TimeStamp = 5AA7E677
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7E673
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7E66A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB6E
+Path = /5A95E7E2
+Reference = U1;
+ValeurCmp = INA321;
+IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ED8BC
+Path = 
+Reference = H4;
+ValeurCmp = M4;
+IdModule  = Mounting_Holes:MountingHole_4.3mm_M4_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ED8B2
+Path = 
+Reference = H3;
+ValeurCmp = M4;
+IdModule  = Mounting_Holes:MountingHole_4.3mm_M4_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ED8A7
+Path = 
+Reference = H1;
+ValeurCmp = M4;
+IdModule  = Mounting_Holes:MountingHole_4.3mm_M4_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC9AC
+Path = /5A9F3D22
+Reference = J1;
+ValeurCmp = GNDA Shutdown V+ Vout;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC9ED
+Path = /5A9E7B99
+Reference = J5;
+ValeurCmp = Filtre;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA1D
+Path = /5A95F2D7
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA33
+Path = /5A95ED19
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA49
+Path = /5A95F2D1
+Reference = R3;
+ValeurCmp = 100K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA5F
+Path = /5A95EBC8
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA75
+Path = /5A95F2DD
+Reference = R5;
+ValeurCmp = 2M;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECA8B
+Path = /5A95ED5B
+Reference = R6;
+ValeurCmp = 2M;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECAA1
+Path = /5A95F869
+Reference = R7;
+ValeurCmp = 100K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECAB7
+Path = /5A95EDC3
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECACD
+Path = /5A95F84B
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECAE3
+Path = /5A95F851
+Reference = R10;
+ValeurCmp = 390K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECAF9
+Path = /5A95F845
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB0F
+Path = /5A96D474
+Reference = R12;
+ValeurCmp = X;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB25
+Path = /5A95F2E3
+Reference = R13;
+ValeurCmp = 1M;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB3B
+Path = /5AA7A300
+Reference = R14;
+ValeurCmp = 1M;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB51
+Path = /5A95F863
+Reference = R15;
+ValeurCmp = X;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ED7BB
+Path = 
+Reference = H2;
+ValeurCmp = M4;
+IdModule  = Mounting_Holes:MountingHole_4.3mm_M4_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9ECB8E
+Path = /5A95E895
+Reference = U2;
+ValeurCmp = OPA4336;
+IdModule  = KiCad_empreintes:DBQ0016A;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA191D1
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = KiCad_empreintes:Blason_FPMs_4,8X5,2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA78FAD
+Path = /5AA79EFF
+Reference = J7;
+ValeurCmp = Gain;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA78FB7
+Path = /5A9E79B4
+Reference = J8;
+ValeurCmp = Filtre;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA78FBD
+Path = /5A95F85D
+Reference = R16;
+ValeurCmp = 10K;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA790B2
+Path = /5AA79E3A
+Reference = J6;
+ValeurCmp = Gain;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA79443
+Path = /5AA7B47B
+Reference = C1;
+ValeurCmp = 1µF;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7E5DC
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7E690
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7E6ED
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA7930B
+Path = /5A95F8BF
+Reference = C2;
+ValeurCmp = 0.1µ;
+IdModule  = Capacitors_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA108F7
+Path = /5A96D47A
+Reference = C4;
+ValeurCmp = X;
+IdModule  = Capacitors_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC992
+Path = /5A95F9BD
+Reference = C3;
+ValeurCmp = 1.6n;
+IdModule  = Capacitors_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA98EA3
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA98EB2
+Path = 
+Reference = REF**;
+ValeurCmp = VIA_0.8mm;
+IdModule  = KiCad_empreintes:VIA_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC9D3
+Path = /5AA03DC9
+Reference = J4;
+ValeurCmp = Right Leg;
+IdModule  = KiCad_empreintes:JEITA_RC-5231;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC9C6
+Path = /5AA03E52
+Reference = J3;
+ValeurCmp = Right Arm;
+IdModule  = KiCad_empreintes:JEITA_RC-5231;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A9EC9B9
+Path = /5AA03EDD
+Reference = J2;
+ValeurCmp = Left Arm;
+IdModule  = KiCad_empreintes:JEITA_RC-5231;
+EndCmp
+
+EndListe
